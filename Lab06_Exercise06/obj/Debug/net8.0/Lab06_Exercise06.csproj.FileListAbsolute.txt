@@ -1,0 +1,15 @@
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\bin\Debug\net8.0\Lab06_Exercise06.exe
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\bin\Debug\net8.0\Lab06_Exercise06.deps.json
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\bin\Debug\net8.0\Lab06_Exercise06.runtimeconfig.json
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\bin\Debug\net8.0\Lab06_Exercise06.dll
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\bin\Debug\net8.0\Lab06_Exercise06.pdb
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.GeneratedMSBuildEditorConfig.editorconfig
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.AssemblyInfoInputs.cache
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.AssemblyInfo.cs
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.csproj.CoreCompileInputs.cache
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.sourcelink.json
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.dll
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\refint\Lab06_Exercise06.dll
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.pdb
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\Lab06_Exercise06.genruntimeconfig.cache
+C:\oop\Lab06-CSharp-Strings\Lab06_Exercise06\obj\Debug\net8.0\ref\Lab06_Exercise06.dll
